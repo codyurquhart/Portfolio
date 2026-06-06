@@ -8,3 +8,9 @@ My name is Cody Urquhart and i'm a passionate QA Engineer with 5 plus years of e
 
 ### Resume
 You can access my resume here [Here](https://drive.google.com/file/d/1DdN9CyuoP4CiIr60WieHvqqs71K5NmsR/view?usp=sharing)
+
+### Skills
+- Manual and Automated Testing: Writing comprehensive and efficient Automated Test Suites for both browser and mobile apps using workflows that includes tools such as Playwright, JavaScript, TypeScript, and Github Actions.
+- API Testing: Utilizing tools such as DevTools, PostMan, and CURL to plan out backend testing for API's.
+- SQL: Using SQL queries to manage and manipulate Databases for testing Backend workflows.
+- Agile Framework: Working together within team dynamics including close interactions with product owners, developers and others to ensure smooth User-Experience and elevated quality of Software and Products.
