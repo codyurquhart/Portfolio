@@ -16,4 +16,4 @@ You can access my resume here [Here](https://drive.google.com/file/d/1DdN9CyuoP4
 - Agile Framework: Working together within team dynamics including close interactions with product owners, developers and others to ensure smooth User-Experience and elevated quality of Software and Products.
 
 ### Test Automation Examples
-- [www.Skool.com](https://github.com/codyurquhart/Skool-Test-Automation-Suite)
+- [Skool-Test-Automation-Suite](https://github.com/codyurquhart/Skool-Test-Automation-Suite)
